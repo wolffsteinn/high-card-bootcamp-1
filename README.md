@@ -2,6 +2,10 @@
 
 https://bc.rocketacademy.co/1-frontend/1.e-exercises/1.e.3-high-card
 
+### Tutorial background
+
+Two players are dealt with a card each and the higher valued card wins. In this game, "Ace" is the smallest value and "King" is the largest value. The game is endless! Play with your friend until you tire of it!
+
 ## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In the project directory, you can run:
